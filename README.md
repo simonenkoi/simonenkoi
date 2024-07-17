@@ -12,7 +12,7 @@ Specializing in backend development, technical architecture, and effective team 
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,aws,hibernate,docker,github,postgres,elasticsearch,redis,kafka,rabbitmq,maven,gradle,JUnit,mockito)](cv/Ignat_Simonenko.pdf)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,aws,hibernate,docker,postgres,elasticsearch,redis,kafka,rabbitmq,maven,gradle)](cv/Ignat_Simonenko.pdf)
 
 ## 📬 Connect with Me
 
